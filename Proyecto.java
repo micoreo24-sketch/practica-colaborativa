@@ -4,6 +4,7 @@ public class Proyecto {
 
     System.out.println("Procesando datos del equipo");
 
-
+    System.out.println("Fin del programa");
+    
     }
 }
